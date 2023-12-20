@@ -86,4 +86,7 @@ The character is defined in file follow like these
 - [MiniLibX Tutorial]
 - [Sprite Resources]
 
-# by zelabbas (good luck).
+
+good luck.
+
+##### by zelabbas
