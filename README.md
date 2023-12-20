@@ -81,12 +81,12 @@ The character is defined in file follow like these
 ```
 
 ## Resources
-- [MiniLibX]
-- [MiniLibX Document]
-- [MiniLibX Tutorial]
-- [Sprite Resources]
+- [MiniLibX] : https://github.com/42Paris/minilibx-linux
+- [MiniLibX Document] : https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
+- [MiniLibX Tutorial] : https://aurelienbrabant.fr/blog/pixel-drawing-with-the-minilibx
+- [Sprite Resources] : https://www.spriters-resource.com/
 
 
 good luck.
 
-##### by zelabbas
+### by zelabbas
